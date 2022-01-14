@@ -1,0 +1,22 @@
+{
+  "name": "jest1-project-one",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamPillis/JEST1-Project-One.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamPillis/JEST1-Project-One/issues"
+  },
+  "homepage": "https://github.com/AdamPillis/JEST1-Project-One#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
